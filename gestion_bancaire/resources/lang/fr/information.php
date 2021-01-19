@@ -1,0 +1,19 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Authentication Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used during authentication for various
+    | messages that we need to display to the user. You are free to modify
+    | these language lines according to your application's requirements.
+    |
+    */
+
+    'wrong_password' => 'Mot de passe incorrect',
+    'update_failure' => 'Echec de mise à jour ...Réessayer ...',
+    'update_success' => 'Mot de passe mis à jour avec succès ...'
+];
